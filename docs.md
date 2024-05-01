@@ -1,3 +1,5 @@
-This document describes how to use the Pavel robotic toothbrush.
+This is the first line of this file.
 
-Note that this toothbrush is safe to use for children, adults, or pets.
+This is the second line of this file.
+
+And this is the third line.
